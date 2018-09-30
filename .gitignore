@@ -1,0 +1,12 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# dotenv
+.env
+.idea
+
+# virtualenv
+.venv
+venv/
+
+
